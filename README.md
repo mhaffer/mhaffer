@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhaffer
 - 👀 I’m interested in ... coffee, dogs, hiking and road trips
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... JavaScript, Java & React
 - 📫 How to reach me ... www.maddisonhaffer.com
 
 <!---
